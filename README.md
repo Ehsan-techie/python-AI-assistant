@@ -33,3 +33,11 @@ The goal is to have a lot of fun, and see where this goes. I want this to be ful
 ### Desicion Model
 
 ![desicion_model](https://user-images.githubusercontent.com/67308774/87041575-46d0a700-c1a7-11ea-91bb-990b076d48e1.png)
+
+## usage
+```
+1.You run the AI-assistant.py script.
+2.You enter your interface. (Voice)
+3.You are good to go!
+
+```
