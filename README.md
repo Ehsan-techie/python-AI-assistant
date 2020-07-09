@@ -50,4 +50,4 @@ I **accept** pull requests.:blush:
 
 # License & Copyright
 
-Licensed under the [MIT License]()
+Licensed under the [MIT License](https://github.com/Ehsan-techie/python-AI-assistant/blob/master/LICENSE)
