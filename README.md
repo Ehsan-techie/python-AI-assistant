@@ -47,3 +47,7 @@ The goal is to have a lot of fun, and see where this goes. I want this to be ful
 There are several ways to improve assistant. If you have any suggestions, please let me know. Or better, fork the repository, play with AI-assistant and contribute by just sending a pull request.
 
 I **accept** pull requests.:blush:
+
+# License & Copyright
+
+Licensed under the [MIT License]
