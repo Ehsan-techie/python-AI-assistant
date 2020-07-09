@@ -30,7 +30,7 @@ pip install wikipedia
 The goal is to have a lot of fun, and see where this goes. I want this to be fully customizable and extendible.
 
 
-### Desicion Model
+# Desicion Model
 
 ![desicion_model](https://user-images.githubusercontent.com/67308774/87041575-46d0a700-c1a7-11ea-91bb-990b076d48e1.png)
 
@@ -42,7 +42,7 @@ The goal is to have a lot of fun, and see where this goes. I want this to be ful
 
 3.You are good to go!
 
-## contributions
+# contributions
 
 There are several ways to improve assistant. If you have any suggestions, please let me know. Or better, fork the repository, play with AI-assistant and contribute by just sending a pull request.
 
