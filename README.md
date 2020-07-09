@@ -37,6 +37,13 @@ The goal is to have a lot of fun, and see where this goes. I want this to be ful
 # usage
 
 1.You run the AI-assistant.py script.
+
 2.You enter your interface. (Voice)
+
 3.You are good to go!
 
+## contributions
+
+There are several ways to improve assistant. If you have any suggestions, please let me know. Or better, fork the repository, play with AI-assistant and contribute by just sending a pull request.
+
+I **accept** pull requests.:blush:
