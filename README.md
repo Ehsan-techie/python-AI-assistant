@@ -8,7 +8,7 @@ To Make it work you will need to excecute these commands in cmd:
 
 *Prerequsites:*
 
-(python 3.7.4)[https://www.python.org/downloads/release/python-374/]
+[python 3.7.4](https://www.python.org/downloads/release/python-374/)
 
 pyttsx3
 ```
