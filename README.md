@@ -5,6 +5,7 @@ It is an AI assistant using python which will automate your task.Uses SpeechReco
 
 ## Dependencies
 To Make it work you will need to excecute these commands in cmd:
+
 ###Prerequsites:
 pyttsx3
 ```
