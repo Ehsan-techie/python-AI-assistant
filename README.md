@@ -25,3 +25,9 @@ wikipedia
 ```
 pip install wikipedia
 ```
+
+**Goal**
+The goal is to have a lot of fun, and see where this goes. I want this to be fully customizable and extendible.
+
+**Desicion Model**
+
